@@ -1,4 +1,6 @@
-# Luke's build of dwm
+# dwm - dynamic window manager
+
+https://dwm.suckless.org/
 
 ## FAQ
 
@@ -28,7 +30,7 @@ I haven't kept `man dwm`/`dwm.1` updated though. PRs welcome on that, lol.
 ## Installation for newbs
 
 ```bash
-git clone https://github.com/LukeSmithxyz/dwm.git
+git clone https://github.com/ledux/dwm.git
 cd dwm
 sudo make install
 ```
